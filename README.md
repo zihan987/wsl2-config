@@ -7,7 +7,7 @@
 文件树：
 
 ```bash
-WSL2-Docs
+.
 ├── 1.WSL2的基础配置
 │   ├── 1.1好看的Windows Temrinal.md
 │   ├── 1.2 WSL2的基础配置.md
@@ -23,14 +23,22 @@ WSL2-Docs
 ├── 4.机器学习相关
 │   ├── 4.1 Python相关环境配置.md
 │   ├── 4.2 CUDA、cudnn的配置.md
-│   └── 4.3 相关辅助工具.md
+│   ├── 4.3 相关辅助工具.md
+│   └── 4.4 推理框架.md
 ├── 5.机器人与自动驾驶
 │   ├── 5.1 SLAM相关(cmake,pcl等).md
 │   ├── 5.2 OpenCV环境搭建.md
 │   ├── 5.3 ROS的环境配置.md
-│   └── 5.4 百度Apollo环境搭建.md
-└── 6.服务器，web开发
-    ├── 6.1 Go开发环境配置.md
-    └── 6.2 Nodejs配置.md
+│   ├── 5.4 百度Apollo环境搭建.md
+│   └── 5.5 AutoWare环境搭建.md
+├── 6.服务器，web开发
+│   ├── 6.1 Go开发环境配置.md
+│   ├── 6.2 Nodejs配置.md
+│   ├── 6.3 Rust环境配置.md
+│   ├── 6.4 Python系列Web框架.md
+│   ├── 6.5 MySQL的配置.md
+│   └── 6.6 Redis环境搭建.md
+└── 7.硬件与物联网
+    └── 7.1 FPGA.md
 ```
 
